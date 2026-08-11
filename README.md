@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo, saya Musa
 
-<!--
-**Muusss/Muusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fokus Teknik Informatika dan IT Support.
 
-Here are some ideas to get you started:
+## Alat
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistik
+[![Statistik Muusss](https://github-readme-stats.vercel.app/api?username=Muusss&show_icons=true&theme=dark)](https://github.com/Muusss)
+
+[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Muusss&layout=compact&theme=dark)](https://github.com/Muusss)
