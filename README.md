@@ -1,5 +1,6 @@
-# 👋 Halo, saya Musa
+![Muusss](img/bannermuusss.png)
 
+# 👋 Halo, saya Musa
 **Fokus Teknik Informatika dan IT Support** — Mari kita bangun sesuatu yang luar biasa!
 
 <p align="center">
@@ -36,21 +37,8 @@
 ### Tools & Platform
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
-</p>
-
----
-
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muusss&show_icons=true&theme=dark&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&border_color=30363D" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muusss&layout=compact&theme=dark&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&border_color=30363D" alt="Top Languages" />
 </p>
 
 ---
@@ -61,14 +49,6 @@
 - 🗄️ **Database Management** — Design, optimization, dan backup strategy
 - 🌐 **Web Development** — Membangun aplikasi web yang scalable dan maintainable
 - 📚 **Continuous Learning** — Selalu belajar teknologi baru untuk meningkatkan skill
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muusss&theme=dark&no-frame=true&row=1" alt="GitHub Trophy" />
-</p>
 
 ---
 
@@ -84,9 +64,6 @@ Jika Anda ingin berdiskusi tentang proyek, kolaborasi, atau hal-hal teknis — j
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Muusss&icon=5&color=6" />
-</p>
 
 <p align="center">
   <i>Terima kasih sudah mengunjungi profile saya!</i> 🙏
